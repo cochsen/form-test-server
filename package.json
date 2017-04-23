@@ -1,0 +1,22 @@
+{
+  "name": "form-test-server",
+  "version": "1.0.0",
+  "description": "test server for form posts / requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cochsen/form-test-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cochsen/form-test-server/issues"
+  },
+  "homepage": "https://github.com/cochsen/form-test-server#readme",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
